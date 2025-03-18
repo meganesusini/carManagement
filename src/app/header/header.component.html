@@ -1,0 +1,30 @@
+<header id="header" class="header fixed-top d-flex align-items-center">
+  <div class="d-flex align-items-center justify-content-between">
+    <a href="index.html" class="logo d-flex align-items-center">
+      <img src="../../assets/template/img/logo.png" alt="" />
+      <span class="d-none d-lg-block">CarManager</span>
+    </a>
+  </div>
+
+  <nav class="header-nav ms-auto">
+    <ul class="d-flex align-items-center">
+      <li class="nav-item dropdown pe-3">
+        <a class="navbar-brand" routerLink="/header/home">Home</a>
+      </li>
+      <li class="nav-item dropdown pe-3" *ngIf="isAdmin()">
+        <a class="navbar-brand" routerLink="/header/users">Users</a>
+      </li>
+      <li class="nav-item dropdown pe-3">
+        <a class="navbar-brand" routerLink="/header/cars">Cars</a>
+      </li>
+
+      <li class="nav-item dropdown pe-3">
+        <button class="btn btn-deconnexion" (click)="logout()">
+          Log out
+        </button>
+      </li>
+    </ul>
+  </nav>
+</header>
+<router-outlet></router-outlet>
+<app-footer></app-footer>

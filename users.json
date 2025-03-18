@@ -1,0 +1,49 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "lastname": "Baker",
+      "firstname": "Jennifer",
+      "login": "chase.hanson",
+      "pwd": "d%H52Ye0",
+      "email": "iwolf@hotmail.com",
+      "role": "Administrateur"
+    },
+    {
+      "id": "2",
+      "lastname": "Montgomery",
+      "firstname": "Victoria",
+      "login": "april.allen",
+      "pwd": "@6EzIt*%",
+      "email": "smithjustin@gmail.com",
+      "role": "Administrateur"
+    },
+    {
+      "id": "3",
+      "lastname": "Brandt",
+      "firstname": "Aaron",
+      "login": "matthew.anderson",
+      "pwd": "uh+1SVvq",
+      "email": "warnerchristopher@richmond.biz",
+      "role": "Utilisateur"
+    },
+    {
+      "id": "5",
+      "lastname": "Miller",
+      "firstname": "Russell",
+      "login": "steven.hill",
+      "pwd": "abcd",
+      "email": "claytonrocha@carson.com",
+      "role": "Utilisateur"
+    },
+    {
+      "id": "7",
+      "lastname": "Barrett",
+      "firstname": "Jacob",
+      "login": "patricia.hall",
+      "pwd": "^2XDsNa5",
+      "email": "yatesmary@simmons.com",
+      "role": "Utilisateur"
+    }
+  ]
+}

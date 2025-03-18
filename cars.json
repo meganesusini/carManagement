@@ -1,0 +1,64 @@
+{
+  "cars": [
+    {
+      "id": "1",
+      "brand": "Toyota",
+      "model": "Corolla",
+      "color": "Red"
+    },
+    {
+      "id": "2",
+      "brand": "Honda",
+      "model": "Civic",
+      "color": "Blue"
+    },
+    {
+      "id": "3",
+      "brand": "Ford",
+      "model": "Mustang",
+      "color": "Black"
+    },
+    {
+      "id": "4",
+      "brand": "Chevrolet",
+      "model": "Camaro",
+      "color": "Yellow"
+    },
+    {
+      "id": "5",
+      "brand": "Tesla",
+      "model": "Model 3",
+      "color": "White"
+    },
+    {
+      "id": "6",
+      "brand": "BMW",
+      "model": "X5",
+      "color": "Gray"
+    },
+    {
+      "id": "7",
+      "brand": "Mercedes",
+      "model": "C-Class",
+      "color": "Silver"
+    },
+    {
+      "id": "8",
+      "brand": "Audi",
+      "model": "A4",
+      "color": "Green"
+    },
+    {
+      "id": "9",
+      "brand": "Nissan",
+      "model": "Altima",
+      "color": "Brown"
+    },
+    {
+      "id": "10",
+      "brand": "Volkswagen",
+      "model": "Golf",
+      "color": "Orange"
+    }
+  ]
+}
